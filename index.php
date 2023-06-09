@@ -100,7 +100,7 @@ tercera parte, ¿su densidad serı́a la misma? ¿por qué?</p>
 
 </section>
     <footer class="pie">
-     Gabriel Luna Bueno 20091122
+     Emiliano Figueroa Aranda
     </footer>
    </section>
 </body>
